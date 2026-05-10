@@ -1,19 +1,36 @@
 # Statistical Business Architect Toolkit
-### High-Level Algorithm Design and Data Integrity Framework
 
-**Architect:** Irem Victor Chinonso  
-**Academic Foundation:** B.Sc. Statistics, Obafemi Awolowo University (OAU)
+> "I design the statistical framework. The algorithm does the rest."
 
-## Overview
-This toolkit represents the "Logic Layer" of business intelligence. It is a collection of statistical frameworks and algorithmic models designed to provide high-conviction insights into complex data sets.
+## About This Repository
+A collection of data-driven frameworks, business intelligence systems, and operational tools built by a Revenue Operations-certified Statistical Architect. This toolkit bridges raw data and strategic decisions.
 
-## Core Frameworks
-- **Predictive Forecasting:** Linear regression and trend analysis models for revenue and inventory growth.
-- **Data Integrity Logic:** Statistical validation methods to ensure accuracy in decentralized reporting environments.
-- **Risk Mitigation Algorithms:** Frameworks for identifying outliers and anomalies in operational data.
+## Core Competencies
+- Statistical Framework Design
+- Revenue Operations (RevOps) Architecture
+- Business Intelligence & KPI Dashboards
+- Python-Driven Data Pipelines
+- Wholesale Operations Analytics
 
-## The Architect Philosophy
-"I design the statistical framework and use AI-assisted engineering to implement the Python architecture. My focus is on Algorithm Design and Data Integrity."
+## Certifications
+- HubSpot Revenue Operations Certified (Valid: June 2027)
+- HubSpot Reporting Certified (Valid: June 2027)
 
----
-*Maintained as part of the OAU Statistics Vault.*
+## Tech Stack
+- Python (pandas, numpy, requests)
+- Google Sheets API (Live Operations Dashboards)
+- GitHub Actions (CI/CD — Auto-tested across Python 3.9, 3.10, 3.11)
+- Statistical Modeling & Algorithm Design
+
+## Projects
+### Wholesale Operations Dashboard
+A real-time inventory and revenue tracking system for a bottled water wholesale depot. Tracks daily sales, stock movement, and revenue performance with automated Google Sheets integration.
+
+### Street Code Studios Content Analytics
+Data pipeline for tracking content performance, idea velocity, and production inventory for a faceless YouTube channel in the finance-crime niche.
+
+## CI/CD Status
+![Python package](https://github.com/princeville45/Statistical-Business-Architect-Toolkit/actions/workflows/python-package.yml/badge.svg)
+
+## Connect
+- Email: princeville45@gmail.com
