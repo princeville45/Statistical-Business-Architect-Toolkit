@@ -12,17 +12,17 @@ Our philosophy is built on three core pillars:
 ## Naming Conventions
 
 To maintain consistency, please follow these naming conventions:
-- **Modules**: Use `snake_case` (e.g., `revenue_forecast_model.py`).
-- **Classes**: Use `PascalCase` (e.g., `PipelineAnalyzer`).
-- **Functions/Variables**: Use `snake_case`.
-- **Constants**: Use `UPPER_SNAKE_CASE`.
+. **Modules**: Use `snake_case` (e.g., `revenue_forecast_model.py`).
+. **Classes**: Use `PascalCase` (e.g., `PipelineAnalyzer`).
+. **Functions/Variables**: Use `snake_case`.
+. **Constants**: Use `UPPER_SNAKE_CASE`.
 
 ## Statistical Framework Design Principles
 
 When contributing a new module, ensure it adheres to these principles:
-- **Data-Driven Logic**: Define the mathematical or statistical logic clearly in the docstrings.
-- **Error Handling**: Implement robust error handling for data edge cases (e.g., division by zero in rate calculations).
-- **Reporting**: Every tool should output a human-readable report summarizing its findings.
+. **Data-Driven Logic**: Define the mathematical or statistical logic clearly in the docstrings.
+. **Error Handling**: Implement robust error handling for data edge cases (e.g., division by zero in rate calculations).
+. **Reporting**: Every tool should output a human-readable report summarizing its findings.
 
 ## How to Add New Modules
 
@@ -32,4 +32,4 @@ When contributing a new module, ensure it adheres to these principles:
 4. **Testing**: Ensure the module passes basic sanity checks with varied inputs.
 
 ---
-*Designed by Prince Victor - Data-Driven Business Architect*
+*Designed by Prince Victor, Data-Driven Business Architect*
