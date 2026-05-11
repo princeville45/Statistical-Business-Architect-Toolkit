@@ -19,10 +19,10 @@ It represents the work of a **Statistical Business Architect** -- someone who de
 
 ## Tech Stack
 
-- **Languages:** Python, SQL, Google Apps Script
-- **Tools:** Google Sheets / Docs / Forms, Airtable, Notion
-- **Analytics:** Statistical Modeling, KPI Dashboards, Pipeline Analysis
-- **Automation:** AI-assisted system design, CRM Workflows, RevOps Frameworks
+. **Languages:** Python, SQL, Google Apps Script
+. **Tools:** Google Sheets / Docs / Forms, Airtable, Notion
+. **Analytics:** Statistical Modeling, KPI Dashboards, Pipeline Analysis
+. **Automation:** AI-assisted system design, CRM Workflows, RevOps Frameworks
 
 ---
 
